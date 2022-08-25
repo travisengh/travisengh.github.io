@@ -35,7 +35,7 @@ export const LinkItem = styled.a`
 	}
 
 	@media ${props => props.theme.breakpoints.sm} {
-		font-size: 14px;
+		font-size: 12px;
 		line-height: 14px;
 		margin-bottom: 8px;
 		display: flex;
@@ -96,7 +96,7 @@ export const Slogan = styled.p`
 
 	@media ${props => props.theme.breakpoints.sm}{
 		line-height: 22px;
-		font-size: 14px;
+		font-size: 16px;
 		min-width: 100px;
 	}
 `
