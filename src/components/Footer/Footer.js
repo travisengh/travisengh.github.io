@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
       <LinkColumn>
         <LinkTitle>Resume</LinkTitle>
-        <LinkItem href="TESecAnalystResume.pdf">Resume Download</LinkItem>
+        <LinkItem target="_blank" href="TESecAnalystResume.pdf">Resume Download</LinkItem>
         </LinkColumn>
         <LinkColumn>
         <LinkTitle>Email</LinkTitle>
@@ -22,10 +22,10 @@ const Footer = () => {
           <Slogan>Design, Develop, Repeat</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://www.linkedin.com/in/travisengh/">
+          <SocialIcons target="_blank" href="https://www.linkedin.com/in/travisengh/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://github.com/travisengh">
+          <SocialIcons target="_blank" href="https://github.com/travisengh">
             <AiFillGithub size="3rem" />
           </SocialIcons>
         </SocialContainer>
