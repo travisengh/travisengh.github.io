@@ -20,7 +20,7 @@ export const TimeLineData = [
 ];
 
 export const data = [
-  { number: 'RHIA', text: 'Registered Health Information Administrator certification', },
-  { number: 'ABCP', text: 'Associate Business Continuity Professional certification', },
-  { number: 'Level +', text: 'Promoted to Information Security Analyst 2'},
+  { title: 'RHIA', text: 'Registered Health Information Administrator certification', },
+  { title: 'ABCP', text: 'Associate Business Continuity Professional certification', },
+  { title: 'Level +', text: 'Promoted to Information Security Analyst 2'},
 ];

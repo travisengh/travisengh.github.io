@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
+import { Box, Boxes, BoxTitle, BoxText } from './AcomplishmentsStyles';
 import { data } from '../../constants/constants';
 
 const Acomplishments = () => (
@@ -10,7 +10,7 @@ const Acomplishments = () => (
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
-          <BoxNum>{card.number}</BoxNum>
+          <BoxTitle>{card.title}</BoxTitle>
           <BoxText>{card.text}</BoxText>
         </Box>
       ))}
