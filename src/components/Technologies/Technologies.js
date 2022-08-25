@@ -1,6 +1,6 @@
 import React from 'react';
 import { DiFirebase, DiReact } from 'react-icons/di';
-import { FcHighPriority } from 'react-icons/fc';
+import { FcHighPriority, FcLock, FcRules } from 'react-icons/fc';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -15,17 +15,27 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-          <FcHighPriority size="3rem" />
-          <ListContainer>
-            <ListTitle>Info Sec</ListTitle>
-            <ListParagraph>
-              Experience with<br />
-              Exabeam, Force Point, Skyhigh, MS Purview,
-              Carbon Black, Duo MFA, BeyondTrust, and
-              Superna Eyeglass security software applications 
-            </ListParagraph>
-          </ListContainer>
-        </ListItem>
+        <FcHighPriority size="3rem" />
+        <ListContainer>
+          <ListTitle>Info Sec Tech</ListTitle>
+          <ListParagraph>
+            Experience with<br />
+            Exabeam, Force Point, Skyhigh, MS Purview,
+            Carbon Black, Duo MFA, BeyondTrust, and
+            Superna Eyeglass security software applications 
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <FcRules size="3rem" />
+        <ListContainer>
+          <ListTitle>Info Sec Practices</ListTitle>
+          <ListParagraph>
+            Experience with<br />
+            Business Continuity and Disaster Recovery, Vendor Risk Management, and Incident Response 
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
       <ListItem>
         <DiReact size="3rem" />
         <ListContainer>
