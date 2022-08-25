@@ -23,4 +23,5 @@ export const data = [
   { title: 'RHIA', text: 'Registered Health Information Administrator certification', },
   { title: 'ABCP', text: 'Associate Business Continuity Professional certification', },
   { title: 'Level +', text: 'Promoted to Information Security Analyst 2'},
+// { title: 'Security+', text: 'Obtained Security+ certification' }
 ];

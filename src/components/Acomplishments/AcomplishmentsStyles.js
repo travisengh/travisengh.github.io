@@ -1,22 +1,19 @@
 import styled from "styled-components"
 
 export const Boxes = styled.div`
+  display: flex;
+  flex-direction: column;
   width: 100%;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
   gap: 24px;
   margin: 24px 0 40px;
 
   @media ${props => props.theme.breakpoints.md}{
     gap: 16px;
     margin: 20px 0 32px;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   }
 
   @media ${props => props.theme.breakpoints.sm}{
-    display: flex;
     gap: 10px;
-    max-width: 100%;
     margin: 24px auto;
   }
 `
@@ -40,11 +37,6 @@ export const Box = styled.div`
   @media ${props => props.theme.breakpoints.sm} {
     height: 100%;
     padding: 12px;
-    
-    &:nth-child(2n){
-      grid-row:2;
-    }
-  }
 `
 export const BoxTitle = styled.h5`
   font-style: normal;
