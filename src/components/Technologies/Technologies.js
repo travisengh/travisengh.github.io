@@ -21,7 +21,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with<br />
             Exabeam, Force Point, Skyhigh, MS Purview,
-            Carbon Black, Duo MFA, BeyondTrust, and
+            Carbon Black, Okta, Duo MFA, BeyondTrust, and
             Superna Eyeglass security software applications 
           </ListParagraph>
         </ListContainer>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Info Sec Practices</ListTitle>
           <ListParagraph>
             Experience with<br />
-            Business Continuity and Disaster Recovery, Vendor Risk Management, and Incident Response 
+            Business Continuity, Disaster Recovery, Incident Response, and Vendor Risk Management,
           </ListParagraph>
         </ListContainer>
       </ListItem>
