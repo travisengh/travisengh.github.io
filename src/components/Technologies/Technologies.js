@@ -32,7 +32,8 @@ const Technologies = () =>  (
           <ListTitle>Info Sec Practices</ListTitle>
           <ListParagraph>
             Experience with<br />
-            Business Continuity, Disaster Recovery, Incident Response, and Vendor Risk Management,
+            Business Continuity, Disaster Recovery, Incident Response, and
+            Vendor Risk Management
           </ListParagraph>
         </ListContainer>
       </ListItem>
