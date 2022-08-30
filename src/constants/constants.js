@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Coming Soon',
-    description: "",
+    description: "I'm currently working on gathering certifications :)",
       image: '',
       tags: [''],
     source: '',
