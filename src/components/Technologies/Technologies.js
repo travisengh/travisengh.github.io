@@ -53,7 +53,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with<br />
-            Node.js and Django
+            Node.js, Sanity, and Django
           </ListParagraph>
         </ListContainer>
       </ListItem>
