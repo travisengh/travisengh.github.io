@@ -43,7 +43,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with<br />
-            HTML, CSS, JavaScript, React.js, and Python
+            HTML, CSS, JavaScript, React.js/Next.js, and Python
           </ListParagraph>
         </ListContainer>
       </ListItem>
