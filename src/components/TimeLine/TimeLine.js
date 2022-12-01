@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider />
       <br />
       <br />
-      <SectionTitle>My Story</SectionTitle>
+      <SectionTitle>My Journey</SectionTitle>
       <SectionText>What led me here</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

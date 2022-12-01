@@ -11,8 +11,7 @@ const Hero = () => (
         Hi, I'm Travis Engh
       </SectionTitle>
       <SectionText>
-      Information Security Analyst during the day<br />
-      Full Stack Web Developer (in training) at night
+      Manager of Engineering, Development, Integrations, and Database Administration
       </SectionText>
     <Button onClick={() => window.location = '/#tech'}>Learn More</Button>
     </LeftSection>

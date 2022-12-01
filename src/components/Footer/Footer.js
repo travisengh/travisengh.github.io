@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
       <LinkColumn>
         <LinkTitle>Resume</LinkTitle>
-        <LinkItem target="_blank" href="TEnghResume.pdf">Resume Download</LinkItem>
+        <LinkItem target="_blank" href="TEEngineeringManagerResume.pdf">Resume Download</LinkItem>
         </LinkColumn>
         <LinkColumn>
         <LinkTitle>Email</LinkTitle>
