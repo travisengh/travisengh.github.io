@@ -17,7 +17,7 @@ export const TimeLineData = [
   { year: 2020, text: '\u2022 Peaked an interest in web development in my spare time', },
   { year: 2021, text: '\u2022 Worked a side job as a web developer for a small startup and graduated with high honors in my HIM degree program', },
   { year: 2022, text: '\u2022 Hired as a Disaster Recovery Analyst at Gundersen Health and later promoted to Information Security Analyst 2', },
-  { year: 2023, text: '\u2022 Promted to Manager of Engineering, Development, Integrations, and Database Administration', },
+  { year: 2023, text: '\u2022 Promted to Manager of Software Engineering', },
 ];
 
 export const data = [
@@ -25,5 +25,5 @@ export const data = [
   { title: 'Arduino Certification', text: 'Key electricity concepts, reading/analyzation of electronic circuits, programming of electronic components in Arduino IDE, and reading/analyzing/troubleshooting of Arduino code', },
   { title: 'ABCP', text: 'Associate Business Continuity Professional certification', },
   { title: 'Level +', text: 'Promoted to Information Security Analyst 2', },
-  { title: 'Level +', text: 'Promoted to Manager of Engineering, Development, Integrations, and Database Administration', },
+  { title: 'Level +', text: 'Promoted to Manager of Software Engineering', },
 ];
