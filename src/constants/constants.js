@@ -24,6 +24,6 @@ export const data = [
   { title: 'RHIA', text: 'Registered Health Information Administrator certification', },
   { title: 'Arduino Certification', text: 'Key electricity concepts, reading/analyzation of electronic circuits, programming of electronic components in Arduino IDE, and reading/analyzing/troubleshooting of Arduino code', },
   { title: 'ABCP', text: 'Associate Business Continuity Professional certification', },
-  { title: 'Level +', text: 'Promoted to Information Security Analyst 2'},
-  { title: 'Level +', text: 'Promoted to Manager of Engineering, Development, Integrations, and Database Administration' },
+  { title: 'Level +', text: 'Promoted to Information Security Analyst 2', },
+  { title: 'Level +', text: 'Promoted to Manager of Engineering, Development, Integrations, and Database Administration', },
 ];
