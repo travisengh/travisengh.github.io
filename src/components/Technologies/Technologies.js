@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Expertise</SectionTitle>
     <SectionText>
-      I am the Manager of Software Engineering in a healthcare setting.
+      I am a Manager of Software Engineering in a healthcare setting.
       My past experience includes an extensive leadership background through 13
       years of service in the Army National Guard, project/program
       management experience through work as a Business Continuity and Disaster Recovery Analsyt,
